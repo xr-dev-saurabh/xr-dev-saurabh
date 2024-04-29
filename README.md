@@ -12,7 +12,7 @@
 - 💬 Ask me about **React, react-three-fiber(r3f), TensorFlow, automation using GHA & terraform, VR and Machine Learning.**
 
 - 📄 Know about my experiences **https://im100rabhupadhyay.tech/**
-- ⚡ Fun fact **I once debugged a virtual world glitch by literally walking through walls—virtually, of course! #VRWizardry**
+- ⚡ Fun fact **: I once debugged a virtual world glitch by literally walking through walls—virtually, of course! #VRWizardry**
 
 <div> <a href="https://github.com/xr-dev-saurabh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
@@ -55,14 +55,9 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xr-dev-saurabh&hide_progress=true&theme=default" alt=xr-dev-saurabh />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=xr-dev-saurabh&show_icons=true&locale=en&theme=" alt="xr-dev-saurabh" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/xr-dev-saurabh">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xr-dev-saurabh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xr-dev-saurabh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xr-dev-saurabh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xr-dev-saurabh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xr-dev-saurabh&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xr-dev-saurabh&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xr-dev-saurabh&theme=default" height="180em" />
 </div>
